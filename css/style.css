@@ -1,0 +1,29 @@
+/* Style pour la classe container */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style pour la boîte de couleur */
+#color-box {
+    width: 200px;
+    height: 200px;
+    background-color: #cccccc; /* Couleur de fond par défaut */
+    margin: 20px auto;
+    border: 2px solid #000;
+}
+
+/* Style pour le bouton */
+#change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#change-color-btn:hover {
+    background-color: #0056b3;
+}
